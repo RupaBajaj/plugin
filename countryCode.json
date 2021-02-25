@@ -1,5 +1,16 @@
 {
-    "country":[
-        "US","CN","IN","PH","RU","CM","LO","AU","UK","CD","BH","SA"
-    ]
+  "country": [
+    "US",
+    "CN",
+    "IN",
+    "PH",
+    "RU",
+    "CM",
+    "LO",
+    "AU",
+    "UK",
+    "CD",
+    "BH",
+    "SA"
+  ]
 }
