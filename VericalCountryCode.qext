@@ -1,0 +1,9 @@
+{
+    "name": "VericalCountryCode",
+    "description": "Javascript based plugin for Vertical view instead of searchable view.",
+    "type": "visualization",
+	"icon" : "table",
+	"preview" : "VericalView.png",
+    "version": "0.1",
+    "author": "Rupa Bajaj"
+}
