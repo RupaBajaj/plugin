@@ -1,7 +1,7 @@
 $(document).ready(function(){
 $('.tableButton').click(function() {
     $(this).prop('disabled', true);   
-    $.getJSON("countryCode.json", function(data){
+    $.getJSON("./countryCode.json", function(data){
         str = JSON.stringify(data, null, 4);
         console.log(data);
 
